@@ -12,12 +12,12 @@
             android:title="Home" />
         <item
             android:id="@+id/teman"
-            android:icon="@drawable/ic_perm_contact"
-            android:title="Daftar Teman" />
+            android:icon="@drawable/ic_timeline"
+            android:title="Aktivitas" />
         <item
             android:id="@+id/gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="GalleryKu" />
+            android:icon="@drawable/ic_person"
+            android:title="Daftar teman" />
         <item
             android:id="@+id/profile"
             android:icon="@drawable/ic_person_black"

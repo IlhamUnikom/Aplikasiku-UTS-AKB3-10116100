@@ -57,12 +57,12 @@ public class GalleryActivity extends AppCompatActivity {
 
     public void loadDataGallery() {
         galleryitems = new ArrayList<GalleryItem>();
-        galleryitems.add(new GalleryItem("Ryan Yusup", "Sahabat seperjuangan", R.drawable.ryan));
-        galleryitems.add(new GalleryItem("Aa Suhendar", "Sahabat seperjuangan", R.drawable.aa));
-        galleryitems.add(new GalleryItem("Gilang Maulana", "Sahabat seperjuangan", R.drawable.lang));
+        galleryitems.add(new GalleryItem("Ryan Yusup", "Lembang People", R.drawable.ryan));
+        galleryitems.add(new GalleryItem("Aa Suhendar", "Lembang People", R.drawable.aa));
+        galleryitems.add(new GalleryItem("Gilang Maulana", "Cimahi People", R.drawable.lang));
         galleryitems.add(new GalleryItem("Yusup Maulanadireja", "Sahabat seperjuangan", R.drawable.ucup));
-        galleryitems.add(new GalleryItem("Erry Nurhadiansyah", "Sahabat seperjuangan", R.drawable.eri));
-        galleryitems.add(new GalleryItem("Adi", "Sahabat seperjuangan", R.drawable.adi));
+        galleryitems.add(new GalleryItem("Erry Nurhadiansyah", "Subang People", R.drawable.eri));
+        galleryitems.add(new GalleryItem("Adi", "Lembang People", R.drawable.adi));
     }
 
     @Override

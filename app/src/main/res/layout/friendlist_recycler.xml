@@ -38,7 +38,7 @@
                     android:layout_height="wrap_content"
                     android:maxLines="1"
                     android:singleLine="true"
-                    android:text="Hafidz Muhammad Sopian"
+                    android:text="Ryan Yusup"
                     android:textAppearance="@style/Base.TextAppearance.AppCompat.Subhead"
                     android:textColor="@android:color/white" />
 
